@@ -20,3 +20,4 @@ drwxr-xr-x  2 shinta.kusuma61 StafCS 4096 Feb 17 16:37 week09
 drwxr-xr-x  2 shinta.kusuma61 StafCS 4096 Feb 17 16:37 week10
 drwxr-xr-x  2 shinta.kusuma61 StafCS 4096 Feb 17 16:38 xtra
 /home/fasilkom/mahasiswa/s/shinta.kusuma61/os171/week01
+Today is 17 Feb 2017 at 17:39:46
